@@ -4,8 +4,6 @@ const note = require('./notes');
 yargs.version('1.1.0') //changing version
 
 
-//add, remove, read, list
-
 // add command
 yargs.command({
     command: 'add',
